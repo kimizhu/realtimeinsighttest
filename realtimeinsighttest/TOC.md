@@ -1,1 +1,1 @@
-# [Index](index.md)
+# [Index](1/index.md)
