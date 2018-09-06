@@ -5,7 +5,7 @@ author: jralexander
 ms.author: johalex
 ms.date: 06/01/2018
 ---
-# Prerequisites for .NET Core on Linux
+# Prerequisites for .NET Core on Linux - test
 
 This article shows the dependencies needed to develop .NET Core applications on Linux. The supported Linux distributions/versions, and dependencies that follow apply to the two ways of developing .NET Core apps on Linux:
 
