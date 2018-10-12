@@ -9,7 +9,7 @@ ms.date: 06/01/2018
 
 This article shows the dependencies needed to develop .NET Core applications on Linux. The supported Linux distributions/versions, and dependencies that follow apply to the two ways of developing .NET Core apps on Linux:
 
-2222
+
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
