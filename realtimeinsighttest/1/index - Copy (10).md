@@ -449,7 +449,7 @@ To install .NET Core 2.x for supported SUSE Linux Enterprise Server and OpenSUSE
 
 ---
 
-## Install .NET Core for supported Alpine Linux versions (64 bit)
+## Install .NET Core for supported Alpine Linux versions (64 bit) test for pr notification
 
 > [!NOTE]
 > A user-controlled directory is required for Linux system installs from tar.gz.
