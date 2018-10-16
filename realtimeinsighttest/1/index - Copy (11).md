@@ -15,7 +15,7 @@ This article shows the dependencies needed to develop .NET Core applications on 
 > [!NOTE]
 > The .NET Core SDK package is not required for production servers/environments. Only the .NET Core runtime package is needed for apps deployed to production environments. The .NET Core runtime is deployed with apps as part of a self-contained deployment, however, it must be deployed for Framework-dependent deployed apps separately. For more information about framework-dependent and self-contained deployment types, see [.NET Core application deployment]. Also see [Self-contained Linux applications](https://github.com/dotnet/core/blob/master/Documentation/self-contained-linux-apps.md) for specific guidelines.
 
-## Supported Linux versions
+## Supported Linux versions test for pr
 
 # [.NET Core 2.x](#tab/netcore2x)
 
