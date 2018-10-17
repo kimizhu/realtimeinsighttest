@@ -9,7 +9,8 @@ ms.date: 06/01/2018
 
 This article shows the dependencies needed to develop .NET Core applications on Linux. The supported Linux distributions/versions, and dependencies that follow apply to the two ways of developing .NET Core apps on Linux:
 
-
+test line
+add another test line
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -449,7 +450,7 @@ To install .NET Core 2.x for supported SUSE Linux Enterprise Server and OpenSUSE
 
 ---
 
-## Install .NET Core for supported Alpine Linux versions (64 bit)
+## Install .NET Core for supported Alpine Linux versions (64 bit) test for pr notification
 
 > [!NOTE]
 > A user-controlled directory is required for Linux system installs from tar.gz.
