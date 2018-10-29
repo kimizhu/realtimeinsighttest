@@ -12,6 +12,7 @@ This article shows the dependencies needed to develop .NET Core applications on 
 test line
 add another test line
 add third line
+add 4th line
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 
