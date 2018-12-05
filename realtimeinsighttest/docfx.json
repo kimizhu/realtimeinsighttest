@@ -24,8 +24,7 @@
     "globalMetadata": {
       "breadcrumb_path": "/realtimeinsighttest/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None",
-      "ms.author": "jasoz"
+      "feedback_system": "None"
     },
     "markdownEngineName": "markdig",
     "overwrite": [],
