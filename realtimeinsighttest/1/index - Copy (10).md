@@ -11,7 +11,7 @@ This article shows the dependencies needed to develop .NET Core applications on 
 
 test line
 add another test line
-
+aaa
 * [Visual Studio Code](https://code.visualstudio.com/)
 
 > [!NOTE]
