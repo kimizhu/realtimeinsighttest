@@ -39,13 +39,7 @@
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
-    "fileMetadata": {
-          "articles/*.md": "https://feedback.azure.com/forums/34192--general-feedback"
-	    },
-	    "searchScope": {
-	       "articles/data-lake-analytics/**/*.md": ["Azure","Azure Data Lake Analytics"]
-	    }
-    },
+    "fileMetadata": {},
     "template": [],
     "dest": "realtimeinsighttest",
     "markdownEngineName": "markdig"
