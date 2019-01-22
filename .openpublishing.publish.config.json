@@ -5,7 +5,7 @@
       "build_source_folder": "realtimeinsighttest",
       "build_output_subfolder": "realtimeinsighttest",
       "locale": "en-us",
-      "monikers": [],
+      "monikers": [ ],
       "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
