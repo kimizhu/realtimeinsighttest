@@ -17,8 +17,8 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": [],
-  "sync_notification_subscribers": [],
+  "notification_subscribers": ["kimizhu"],
+  "sync_notification_subscribers": ["kimizhu"],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
