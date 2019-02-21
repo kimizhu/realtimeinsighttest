@@ -36,9 +36,9 @@
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/realtimeinsighttest/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
+      "extendBreadcrumb": false,
       "feedback_system": "None",
-      "author": "LucasDvp"
+      "author": "kimizhu"
     },
     "fileMetadata": {},
     "template": [],
