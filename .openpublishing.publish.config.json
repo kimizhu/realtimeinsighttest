@@ -33,5 +33,5 @@
   "notification_subscribers": [],
   "skip_source_output_uploading": false,
   "sync_notification_subscribers": [],
-  "enable_incremental_build": false,
+  "enable_incremental_build": false
 }
