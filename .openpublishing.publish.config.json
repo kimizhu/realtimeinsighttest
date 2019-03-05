@@ -32,5 +32,6 @@
   "need_preview_pull_request": true,
   "notification_subscribers": [],
   "skip_source_output_uploading": false,
-  "sync_notification_subscribers": []
+  "sync_notification_subscribers": [],
+  "enable_incremental_build": false
 }
