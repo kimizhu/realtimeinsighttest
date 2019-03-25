@@ -1,37 +1,40 @@
 {
-  "branch_target_mapping": {},
-  "branches_to_filter": [],
-  "contribution_branch_mappings": {},
-  "dependent_repositories": [
-    {
-      "branch": "master",
-      "branch_mapping": {},
-      "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft"
-    }
-  ],
   "docsets_to_publish": [
     {
-      "build_entry_point": "docs",
-      "build_output_subfolder": "realtimeinsighttest",
-      "build_source_folder": "realtimeinsighttest",
       "docset_name": "realtimeinsighttest",
+      "build_source_folder": "realtimeinsighttest",
+      "build_output_subfolder": "realtimeinsighttest",
       "locale": "en-us",
-      "moniker_ranges": [],
       "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
-      "template_folder": "_themes",
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
-      }
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
-  "need_generate_pdf_url_template": false,
-  "need_preview_pull_request": true,
-  "notification_subscribers": ["jasoz@microsoft.com"],
-  "skip_source_output_uploading": false,
+  "notification_subscribers": [
+    "zifan@microsoft.com"
+  ],
   "sync_notification_subscribers": [],
-  "enable_incremental_build": false
+  "branches_to_filter": [],
+  "skip_source_output_uploading": false,
+  "need_preview_pull_request": true,
+  "enable_incremental_build": false,
+  "contribution_branch_mappings": {},
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft",
+      "branch": "master",
+      "branch_mapping": {}
+    }
+  ],
+  "branch_target_mapping": {},
+  "need_generate_pdf_url_template": false,
+  "targets": {}
 }
