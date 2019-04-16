@@ -6,3 +6,4 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 - Add item #2
 - Add item #3
 - Add item #4
+- Add item #5
