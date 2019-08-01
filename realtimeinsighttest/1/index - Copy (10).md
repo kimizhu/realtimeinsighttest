@@ -7,6 +7,11 @@ ms.date: 06/01/2018
 ---
 # Prerequisites for .NET Core on Linux
 
+**在自訂的 Webhook 有效附載引入搜尋結果：** 在您自訂的有效附載中加入了 
+
+**急ぐ必要はありません。** RC 版は、少なくとも 6 月中は提供される予定であり、ダウンロードやプロダクト キーの数も制限していません。したがって、時間には余裕があります。
+
+
 This article shows the dependencies needed to develop .NET Core applications on Linux. The supported Linux distributions/versions, and dependencies that follow apply to the two ways of developing .NET Core apps on Linux:
 
 * [Visual Studio Code](https://code.visualstudio.com/)
