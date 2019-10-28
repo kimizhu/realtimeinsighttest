@@ -7,6 +7,19 @@ ms.date: 06/01/2018
 ---
 # Prerequisites for .NET Core on Linux
 
+
+```csharp
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+test the single inline code `function test()` continue the line
+
+test the triple inline code ```function test()``` continue the line
+
+
+
 **在自訂的 Webhook 有效附載引入搜尋結果：** 在您自訂的有效附載中加入了 
 
 **急ぐ必要はありません。** RC 版は、少なくとも 6 月中は提供される予定であり、ダウンロードやプロダクト キーの数も制限していません。したがって、時間には余裕があります。
