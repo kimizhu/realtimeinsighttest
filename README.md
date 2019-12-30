@@ -4,3 +4,4 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 
 - Add item #1
 - Add item #2
+- Add item #3
