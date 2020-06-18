@@ -1,8 +1,8 @@
 ---
 title: Prerequisites for .NET Core on Linux
 description: Supported Linux versions and .NET Core dependencies to develop, deploy, and run .NET Core applications on Linux machines.
-author: jralexander
-ms.author: johalex
+author: jralexanderaaaa
+ms.author: johalexaaaa
 ms.date: 06/01/2018
 ---
 # Prerequisites for .NET Core on Linux
