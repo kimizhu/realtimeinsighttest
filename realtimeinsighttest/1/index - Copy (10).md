@@ -5,7 +5,7 @@ author: jralexander
 ms.author: johalex
 ms.date: 06/01/2018
 ---
-# Prerequisites for .NET Core on Linux
+# Prerequisites for .NET Core on
 
 below is a sample markdown link for the URL: http://www.samplewebsite.com
 
